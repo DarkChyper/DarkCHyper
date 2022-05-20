@@ -3,7 +3,7 @@
 <p>
 	<img alt="php" src="https://img.shields.io/badge/-PHP-7175AA?style=flat&logo=php&logoColor=white" />
 	<img alt="symfony" src="https://img.shields.io/badge/-Symfony-027BB9?style=flat&logo=symfony&logoColor=white" />
-	<img alt="twig" src="https://img.shields.io/badge/-twig-B6C927?style=flat&logo=twig&logoColor=white />
+	<img alt="twig" src="https://img.shields.io/badge/-twig-B6C927?style=flat" />
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 </p>
 ------------
