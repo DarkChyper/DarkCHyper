@@ -8,4 +8,6 @@
 </p>
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 20 May, 16:02 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)</p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/></p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
