@@ -28,6 +28,6 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
-        uses: DarkChyper/DarkChyper@master
+        uses: DarkChyper/main@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
