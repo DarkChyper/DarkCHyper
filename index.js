@@ -1,11 +1,9 @@
 // index.js
 const Mustache = require('mustache');
+const fetch = require('node-fetch');
 const fs = require('fs');
-const MUSTACHE_MAIN_DIR = './main.mustache';/**
-  * DATA is the object that contains all
-  * the data to be provided to Mustache
-  * Notice the "name" and "date" property.
-*/
+const MUSTACHE_MAIN_DIR = './main.mustache';
+
 let DATA = {
   name: 'Simon',
   date: new Date().toLocaleDateString('en-GB', {
