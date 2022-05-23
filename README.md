@@ -7,5 +7,5 @@
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 </p>
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 23 May, 08:18 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 23 May, 11:17 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/DarkChyper/DarkChyper/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/></p>
