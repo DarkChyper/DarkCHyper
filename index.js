@@ -1,4 +1,3 @@
-
 require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
@@ -24,6 +23,8 @@ async function setWeatherInformation() {
   )
     .then(r => r.json())
     .then(r => {
+      try {
+        console.debug(r);
       DATA.city_temperature = Math.round(r.main.temp);
       DATA.city_weather = r.weather[0].description;
       DATA.city_weather_icon = r.weather[0].icon;
@@ -37,7 +38,10 @@ async function setWeatherInformation() {
         minute: '2-digit',
         timeZone: 'Europe/Paris',
       });
-    });
+    } catch(err) {
+      console.error(err);}
+    })
+    .catch(err => console.log(err));
 }
 
 async function generateReadMe() {
