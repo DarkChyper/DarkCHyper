@@ -13,5 +13,5 @@ Currently, the weather is: <b> 22°C, <i>broken clouds</i></b>
 </br>Today, the sun rises at <b>05:37</b> and sets at <b>22:00</b>.
 </p>
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 12 June, 14:19 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 12 June, 17:11 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/DarkChyper/DarkChyper/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/></p>
