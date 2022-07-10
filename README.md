@@ -9,9 +9,9 @@
 	<img alt="api" src="https://img.shields.io/badge/-API-2FC1C1?style=flat" />
 </p>
 <p>
-Currently, the weather is: <b> 24°C, <i>few clouds</i></b>
+Currently, the weather is: <b> 19°C, <i>clear sky</i></b>
 </br>Today, the sun rises at <b>05:48</b> and sets at <b>21:59</b>.
 </p>
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 10 July, 20:14 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 10 July, 23:10 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/DarkChyper/DarkChyper/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/></p>
