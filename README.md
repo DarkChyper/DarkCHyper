@@ -9,9 +9,9 @@
 	<img alt="api" src="https://img.shields.io/badge/-API-2FC1C1?style=flat" />
 </p>
 <p>
-Currently, the weather is: <b> 20°C, <i>overcast clouds</i></b>
-</br>Today, the sun rises at <b>06:38</b> and sets at <b>21:07</b>.
+Currently, the weather is: <b> 19°C, <i>light rain</i></b>
+</br>Today, the sun rises at <b>06:40</b> and sets at <b>21:05</b>.
 </p>
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 16 August, 23:11 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 17 August, 03:16 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/DarkChyper/DarkChyper/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/></p>
