@@ -27,5 +27,5 @@ Currently, the weather is: <b> 16°C, <i>clear sky</i></b>
 </br>Today, the sun rises at <b>08:04</b> and sets at <b>19:06</b>.
 </p>
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 11 October, 14:32 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 11 October, 17:18 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/DarkChyper/DarkChyper/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img src="https://komarev.com/ghpvc/?username=darkchyper&label=Profile%20views&color=0e75b6&style=flat" alt="darkchyper" /><a href="https://twitter.com/dark_chyper" target="blank"><img src="https://img.shields.io/twitter/follow/dark_chyper?logo=twitter&style=for-the-badge" alt="dark_chyper" /></a></p>
