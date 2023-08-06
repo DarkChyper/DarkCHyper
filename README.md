@@ -24,8 +24,8 @@
  <a href="https://api-platform.com/" target="_blank" rel="noreferrer"><img alt="api" src="https://img.shields.io/badge/-API-2FC1C1?style=flat" /></a>
  </p>
 Currently, the weather is: <b> 15°C, <i>light rain</i></b>
-</br>Today, the sun rises at <b>06:21</b> and sets at <b>21:27</b>.
+</br>Today, the sun rises at <b>06:23</b> and sets at <b>21:26</b>.
 </p>
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 5 August, 23:07 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 6 August, 02:50 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/DarkChyper/DarkChyper/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img src="https://komarev.com/ghpvc/?username=darkchyper&label=Profile%20views&color=0e75b6&style=flat" alt="darkchyper" /><a href="https://twitter.com/dark_chyper" target="blank"><img src="https://img.shields.io/twitter/follow/dark_chyper?logo=twitter&style=for-the-badge" alt="dark_chyper" /></a></p>
