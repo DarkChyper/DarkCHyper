@@ -23,9 +23,9 @@
  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
  <a href="https://api-platform.com/" target="_blank" rel="noreferrer"><img alt="api" src="https://img.shields.io/badge/-API-2FC1C1?style=flat" /></a>
  </p>
-Currently, the weather is: <b> 5°C, <i>clear sky</i></b>
+Currently, the weather is: <b> 5°C, <i>broken clouds</i></b>
 </br>Today, the sun rises at <b>07:46</b> and sets at <b>18:18</b>.
 </p>
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 23 February, 01:45 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 23 February, 04:10 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/DarkChyper/DarkChyper/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/DarkChyper/DarkChyper?style=flat-square&labelColor=343b41"/> <img src="https://komarev.com/ghpvc/?username=darkchyper&label=Profile%20views&color=0e75b6&style=flat" alt="darkchyper" /><a href="https://twitter.com/dark_chyper" target="blank"><img src="https://img.shields.io/twitter/follow/dark_chyper?logo=twitter&style=for-the-badge" alt="dark_chyper" /></a></p>
